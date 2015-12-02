@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "Personal journal.",
   "main": "journal.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/l0oky/journal"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,5 +14,13 @@
   "license": "MIT",
   "dependencies": {
     "scatter": "^0.7.3"
+  },
+  "devDependencies": {
+    "chai": "~1.8.1",
+    "mocha": "~1.15.1",
+    "rimraf": "~2.2.2",
+    "mocha-lcov-reporter": "0.0.1",
+    "coveralls": "~2.6.0",
+    "istanbul": "~0.1.46",
   }
 }
