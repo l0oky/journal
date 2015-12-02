@@ -9,6 +9,6 @@
   "author": "Muhamed Krlić",
   "license": "MIT",
   "dependencies": {
-    "connect": "^3.4.0"
+    "scatter": "^0.7.3"
   }
 }
