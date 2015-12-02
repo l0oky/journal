@@ -4,6 +4,6 @@ var expect = require('chai').expect,
 
 describe('Just some tests', function(){
   it('should pass', function() {
-    done();
+    return true;
   });
 });
