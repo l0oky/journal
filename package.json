@@ -1,0 +1,14 @@
+{
+  "name": "journal",
+  "version": "1.0.0",
+  "description": "Personal journal.",
+  "main": "journal.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Muhamed Krlić",
+  "license": "MIT",
+  "dependencies": {
+    "connect": "^3.4.0"
+  }
+}
